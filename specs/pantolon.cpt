@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Pantolon kategorisine tıklanır
+* Xpath "(//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'])[14]" pantolon kategorisine tıklanır
+* Sayfayı aşağı doğru kaydır

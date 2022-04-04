@@ -1,0 +1,8 @@
+Created by testinium on 3.04.2022
+
+This is a concept file with following syntax for each concept.
+# Alısverise tıklama
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/btnSuccess']" popup kabul et
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayMarket']" ile uygulamanın açıldığı kontrol edilir
+* Xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/tv_startShoppingStore']" olan Alışverişe başla Butonuna tıkla
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/tv_startShoppingStore']" xpath'i ile alışveriş sayfasına girildiği doğrulanır

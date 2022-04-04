@@ -1,0 +1,6 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Geri geldikten sonra sepete ürün ekleme
+* Geri geldikten sonra rastgele ürün seçimi yapılır
+* "//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayAddCartBtn']" rastgele seçilen ürün sepete eklenir

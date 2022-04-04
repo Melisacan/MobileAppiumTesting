@@ -1,0 +1,8 @@
+Created by testinium on 4.04.2022
+
+This is a concept file with following syntax for each concept.
+# Giriş yapma sayfası kontrol ve indexler
+* "(//*[@resource-id='com.ozdilek.ozdilekteyim:id/imageView'])[1]" giris yapma sayfası açılır kontrolü
+* Xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/etEposta']" li textbox'a email adresi girilir
+* Xpath'i "//*[@resource-id='com.ozdilek.ozdilekteyim:id/etPassword']" olan textbox'a password girilir
+* "com.ozdilek.ozdilekteyim:id/ivBack" geri butonuna iki kere tıklanır
